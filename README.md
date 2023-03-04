@@ -1,7 +1,3 @@
-# Interactive-Dashboard-and-Visualization-Global-Layoff-Data
-Built interactive dashboard visualization to analyze trend layoff global
-
-
 # Interactive Dashboard and Visualization Global Layoff Data
 
 This project aims to analyze layoff conditions at sectoral, global and country levels. The analysis is done by visualizing and creating dashboards in tableau
